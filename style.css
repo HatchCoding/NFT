@@ -1,0 +1,125 @@
+body { 
+        font-family: "Lato", sans-serif; 
+} 
+h1,h2,h3,h4,h5,h6,p,ul,ol,li { 
+    font-family: "Lato", sans-serif; 
+    color: #3a4554; 
+} 
+i { 
+    color:  #8169d3;
+} 
+.hatchNav{
+    color: #8169d3;
+    padding: 13px;
+    text-decoration: unset;
+    font-size: 16px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  border: 2px solid; 
+  text-align: center; 
+  border-radius: 20px; 
+}
+.hatchNav:hover{
+  font-weight: 600; 
+  color: #000; 
+}
+.hatchNav:first{
+  font-weight: 600; 
+  color: #fff; 
+}
+.nav-div{
+  width:8em; 
+
+}
+
+.headerImg{
+  height:70px; 
+  padding-left:20px; 
+  padding-right:40px;
+}
+
+h1 { 
+    margin:0.5em ; 
+    font-size: 3rem; 
+    line-height: 3rem; 
+  color: #3a4554; 
+} 
+h2 { 
+    color: #8169d3;
+    font-weight: 650;
+    font-size: 2rem; 
+    line-height: 2rem; 
+    margin: 0.5em 0; 
+} 
+h3 { 
+    color:#8169d3; 
+    font-size: 1.8rem; 
+    line-height: 1.8rem;
+    margin: 0.5em 0; 
+} 
+h4 { 
+  color: #f4c432;
+  font-weight: 650;
+    font-size: 1.5rem; 
+    line-height: 1.5rem; 
+} 
+h5 { 
+    color:  #f4c432; 
+    font-size: 1.2rem; 
+    line-height: 1.2rem; 
+} 
+h6 { 
+    color: #f4c432; 
+    font-size: 1.2rem; 
+    line-height: 1.2rem; 
+} 
+p { 
+
+} 
+hr{
+        height: 2px;
+  padding: 1px;
+        background-color: #f4c432;
+  opacity:100;
+    }
+ol li { 
+    padding-bottom: 5px; 
+} 
+ul li { 
+    padding-bottom: 5px; 
+} 
+table { 
+    border-collapse: collapse; 
+} 
+table, tr, th, td { 
+    padding: 15px; text-align: center; border: 1px solid #DDD; 
+} 
+tr:nth-child(even) { 
+    background-color: #f2f2f2; 
+} 
+
+.center_50{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10px; 
+  
+}
+footer{
+  margin-top:20px; 
+  background: #f5f9fe; 
+  padding: 20px; 
+  text-align: right; 
+  font-size: 30px; 
+  color: #3a4554; 
+} 
+footer-image{
+    width:100px; 
+  }
+footer-text{
+  color: #3a4554; 
+  display: inline; 
+}
