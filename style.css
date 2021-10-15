@@ -106,8 +106,16 @@ tr:nth-child(even) {
   margin-right: auto;
   width: 50%;
   border-radius: 10px; 
-  
 }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px; 
+  width: 100%;
+}
+
 footer{
   margin-top:20px; 
   background: #f5f9fe; 
