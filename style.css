@@ -19,7 +19,7 @@ i {
     flex-direction: column;
   border: 2px solid; 
   text-align: center; 
-  border-radius: 20px; 
+  border-radius: 10px; 
 }
 .hatchNav:hover{
   font-weight: 600; 
@@ -32,7 +32,6 @@ i {
 .nav-div{
  /* width:8em; */ 
  margin-right:1em; 
-
 }
 
 .headerImg{
